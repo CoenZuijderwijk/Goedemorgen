@@ -1,0 +1,14 @@
+{
+    "name": "coenzuijderwijk/goedemorgen",
+    "authors": [
+        {
+            "name": "Coen"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "Goedemorgen":"src"
+        }
+    }
+}
