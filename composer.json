@@ -7,8 +7,8 @@
     ],
     "require": {},
     "autoload": {
-        "psr-0": {
-            "Goedemorgen":"src"
+        "psr-4": {
+            "GoedeMorgen":"\src\Goedemorgen"
         }
     }
 }
